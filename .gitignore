@@ -1,0 +1,10 @@
+# собранные бинарники (make)
+adapter/sb3bridge
+tools/midimon
+tools/midisend
+tools/ledscan
+tools/tonetest
+
+.DS_Store
+.ruff_cache/
+__pycache__/
